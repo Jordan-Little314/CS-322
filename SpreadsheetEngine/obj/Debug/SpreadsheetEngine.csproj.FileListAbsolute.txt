@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\CS322\Homework_10\Spreadsheet_JLittle\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\CS322\Homework_10\Spreadsheet_JLittle\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\CS322\Homework_10\Spreadsheet_JLittle\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\CS322\Homework_10\Spreadsheet_JLittle\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\CS322\Homework_10\Spreadsheet_JLittle\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
